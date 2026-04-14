@@ -1,60 +1,6 @@
-# Проект 0. Угадай число
+# My data science projects
+From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist)
 
-## Оглавление  
-[1. Описание проекта](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.README.md#Результат)    
-[6. Выводы](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.README.md#Выводы) 
+## Проекты
 
-### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
-
-:arrow_up:[к оглавлению](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.READMEmd#Оглавление)
-
-
-### Какой кейс решаем?    
-Нужно написать программу, которая угадывает число за минимальное число попыток
-
-**Условия соревнования:**  
-- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
-
-**Метрика качества**     
-Результаты оцениваются по среднему количеству попыток при 1000 повторений.
-Добились минимального количества попыток.
-
-**Что практикуем**     
-Учимся писать хороший код на python.
-Учимся работать с IDE.
-Учимся работать с GitHub.
-
-
-### Краткая информация о данных
-....
-  
-:arrow_up:[к оглавлению](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.README.md#Оглавление)
-
-
-### Этапы работы над проектом  
-Больше всего времени заняла установка VC Code c нужными библиотеками. Очень помогла Anaconda с отдельным окружением.
-Пример кода из задания Skillfactory угадывал значение в среднем за 101 попытку.
-Код был доработан на основе алгоритма game.py 
-
-:arrow_up:[к оглавлению](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.README.md#Оглавление)
-
-
-### Результаты:  
-Создана программа угадывающее число в среднем за 8 попыток.
-
-:arrow_up:[к оглавлению](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.README.md#Оглавление)
-
-
-### Выводы:  
-Результат работы соответствует поставлений задачи(Угадывание числа за минимальное количество повторений)
-
-:arrow_up:[к оглавлению](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0.README.md#Оглавление)
-
-
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+# [Проект 0. Игра: Угадай число](https://github.com/alexe5410d-png/sf_data_science/tree/main/project_0)
